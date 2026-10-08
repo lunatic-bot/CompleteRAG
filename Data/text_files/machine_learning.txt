@@ -1,0 +1,23 @@
+
+Machine Learning (ML) is a branch of artificial intelligence (AI) that allows computers to learn from data and make predictions or decisions without being explicitly programmed for every task.
+
+Core Types of Machine Learning
+
+• Supervised Learning: Trains models on labeled data to predict outcomes or classify information (e.g., spam detection, house price estimation).
+• Unsupervised Learning: Explores unlabeled data to find hidden patterns or groupings (e.g., customer segmentation via clustering).
+• Reinforcement Learning: An agent learns to make decisions by interacting with an environment and receiving rewards or penalties.
+• Generative AI: A specialized subset of ML that learns data distributions to create new content like text, images, or audio.
+
+Common ML Algorithms and Techniques
+
+• Regression: Predicts continuous numerical values (e.g., linear regression).
+• Classification: Assigns data into discrete categories (e.g., logistic regression, decision trees, support vector machines).
+• Clustering: Groups unlabeled data points (e.g., K-Means, DBSCAN).
+• Neural Networks: Layered algorithms modeled after the brain, forming the basis of Deep Learning.
+
+Real-World Applications
+
+• Recommendation engines on platforms like Coursera, Netflix, or Spotify.
+• Fraud detection systems in banking and finance.
+• Autonomous vehicles and driver-assistance features.
+• Predictive forecasting for weather, stock prices, and supply chains
